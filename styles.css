@@ -1,0 +1,43 @@
+.random1 {
+color: purple;
+background-color: grey;
+font-size: 60px;
+font-family: sans-serif;
+position: relative;
+border-style: dashed;
+width: 100px;
+height: 100px;
+text-align: center;
+}
+
+.random2 {
+  color: pink;
+  background-color: black;
+  font-size: 60px;
+  font-family: sans-serif;
+  position: relative;
+  border-style: dashed;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+.random3 {
+  color: green;
+  background-color: blue;
+  font-size: 60px;
+  font-family: sans-serif;
+  position: relative;
+  border-style: dashed;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+.highlight {
+  color: yellow;
+  background-color: orange;
+
+
+
+}
