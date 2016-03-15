@@ -1,18 +1,6 @@
-.random1 {
-color: purple;
-background-color: grey;
-font-size: 60px;
-font-family: sans-serif;
-position: relative;
-border-style: dashed;
-width: 100px;
-height: 100px;
-text-align: center;
-}
-
-.random2 {
-  color: pink;
-  background-color: black;
+.block {
+  color: purple;
+  background-color: red;
   font-size: 60px;
   font-family: sans-serif;
   position: relative;
@@ -20,24 +8,28 @@ text-align: center;
   width: 100px;
   height: 100px;
   text-align: center;
+  display: inline-block;
 }
 
-.random3 {
-  color: green;
-  background-color: blue;
-  font-size: 60px;
-  font-family: sans-serif;
-  position: relative;
-  border-style: dashed;
-  width: 100px;
-  height: 100px;
-  text-align: center;
+
+p {
+  color: orange;
+  font-size: 16px;
+  font-family: cursive;
 }
 
 .highlight {
   color: yellow;
-  background-color: orange;
+  border-style: solid;
+}
 
-
-
+.button {
+    background-color: #4CAF50;  Green
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
 }
